@@ -6,3 +6,4 @@ Genshinnnn No.1 in Philipines
 ``` c
 printf('Hello World');
 ```
+##How to Install 
