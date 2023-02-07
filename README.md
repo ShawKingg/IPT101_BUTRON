@@ -7,3 +7,4 @@ Genshinnnn No.1 in Philipines
 printf('Hello World');
 ```
 ##How to Install 
+ Life if Good
