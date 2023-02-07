@@ -8,7 +8,3 @@ printf('Hello World');
 ```
 ##How to Install 
  Life if Good
-
-## no. 2
-
-oabfjkabfjkallanf
