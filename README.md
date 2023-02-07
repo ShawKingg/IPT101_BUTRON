@@ -12,3 +12,5 @@ printf('Hello World');
 ## yeah
 
 No . 3
+
+## Hard Reset
